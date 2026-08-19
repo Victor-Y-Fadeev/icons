@@ -1,9 +1,7 @@
 <?xml version="1.0" encoding="UTF-8" standalone="no"?>
 <!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
-<svg width="100%" height="100%" viewBox="0 0 52 40" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" xml:space="preserve" xmlns:serif="http://www.serif.com/" style="fill-rule:evenodd;clip-rule:evenodd;stroke-linejoin:round;stroke-miterlimit:2;">
-    <g id="LOGO_AK_1_Layer0_0_FILL">
-        <path d="M44.05,8.05C47.35,11.35 49,15.35 49,20.05C49,24.717 47.35,28.717 44.05,32.05C40.783,35.35 36.833,37 32.2,37C27.533,37 23.55,35.35 20.25,32.05C19.05,30.817 18.067,29.483 17.3,28.05C16.633,26.817 16.133,25.467 15.8,24L6.85,20L15.8,16C16.1,14.6 16.6,13.267 17.3,12C18.067,10.567 19.05,9.25 20.25,8.05C23.55,4.717 27.533,3.05 32.2,3.05C36.833,3.05 40.783,4.717 44.05,8.05Z" style="fill:white;fill-rule:nonzero;"/>
-        <path d="M52,20.05C52,14.517 50.067,9.8 46.2,5.9C42.333,2 37.667,0.05 32.2,0.05C26.7,0.05 22.017,2 18.15,5.9C15.817,8.267 14.183,10.933 13.25,13.9L0,20L13.25,26.2C14.183,29.167 15.817,31.833 18.15,34.2C22.017,38.1 26.7,40.05 32.2,40.05C37.667,40.05 42.333,38.1 46.2,34.2C50.067,30.267 52,25.55 52,20.05M44.05,8.05C47.35,11.35 49,15.35 49,20.05C49,24.717 47.35,28.717 44.05,32.05C40.783,35.35 36.833,37 32.2,37C27.533,37 23.55,35.35 20.25,32.05C19.05,30.817 18.067,29.483 17.3,28.05C16.633,26.817 16.133,25.467 15.8,24L6.85,20L15.8,16C16.1,14.6 16.6,13.267 17.3,12C18.067,10.567 19.05,9.25 20.25,8.05C23.55,4.717 27.533,3.05 32.2,3.05C36.833,3.05 40.783,4.717 44.05,8.05Z" style="fill:rgb(239,168,33);fill-rule:nonzero;"/>
+<svg width="100%" height="100%" viewBox="0 0 20 14" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" xml:space="preserve" xmlns:serif="http://www.serif.com/" style="fill-rule:evenodd;clip-rule:evenodd;stroke-linejoin:round;stroke-miterlimit:2;">
+    <g transform="matrix(1,0,0,1,-21.05,-13)">
         <path d="M37.3,13L34.05,20L37.3,27L41.05,27L37.8,20L41.05,13L37.3,13M26.5,22.2L27.8,22.2L29.8,27L33.1,27L27.2,13L21.05,27L24.4,27L26.5,22.2Z" style="fill:rgb(211,19,53);fill-rule:nonzero;"/>
     </g>
 </svg>
