@@ -1,14 +1,8 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<svg id="_Слой_2" data-name="Слой 2" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 22 22">
-  <defs>
-    <style>
-      .cls-1 {
-        fill: #ffbc0d;
-        stroke-width: 0px;
-      }
-    </style>
-  </defs>
-  <g id="_Слой_1-2" data-name="Слой 1">
-    <path class="cls-1" d="M21.79,8.39l-.09-.43-3.63-.63,2.11-2.85-.25-.27-3.1,1.49.39-3.95-.32-.18-1.89,3.19L12.91,0h-.37l.5,4.6L7.71.33l-.45.13,4.11,5.16L3.24,2.91l-.37.41,7.26,4.13L.11,8.29l-.11.62,10.41,1.13L1.73,17.22l.37.5,10.33-5.62-2.05,9.9h.63l3.96-9.31,2.41,7.29.43-.33-.99-7.41,3.76,4.27.25-.39-2.88-5.29,4.02,1.49.04-.45-3.6-2.66,3.4-.82Z"/>
-  </g>
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
+<svg width="100%" height="100%" viewBox="0 0 48 48" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" xml:space="preserve" xmlns:serif="http://www.serif.com/" style="fill-rule:evenodd;clip-rule:evenodd;stroke-linejoin:round;stroke-miterlimit:2;">
+    <g>
+        <path d="M24,48C37.255,48 48,37.255 48,24C48,10.745 37.255,0 24,0C10.745,0 0,10.745 0,24C0,37.255 10.745,48 24,48Z" style="fill-rule:nonzero;"/>
+        <path d="M42.4,19.397L42.298,18.645L36.135,17.206L39.318,12.482L38.942,11.97L33.978,14.399L34.527,7.793L33.978,7.521L30.897,12.824L27.27,4.85L26.586,4.85L27.474,12.654L18.403,5.432L17.617,5.638L24.599,14.399L10.736,9.779L10.086,10.498L22.476,17.514L5.43,18.953L5.258,19.979L22.991,21.896L8.169,34.014L8.854,34.938L26.414,25.353L22.957,42.161L24.017,42.161L30.795,26.347L34.903,38.704L35.621,38.155L34.081,25.765L40.345,32.85L40.723,32.131L36.067,23.368L42.674,25.697L42.742,24.977L37.232,20.561L42.4,19.397Z" style="fill:rgb(255,255,0);fill-rule:nonzero;"/>
+    </g>
 </svg>
